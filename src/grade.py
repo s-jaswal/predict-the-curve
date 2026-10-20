@@ -4,12 +4,13 @@ import sys
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
+from src.config import DATA_DIR
 from src.problems import load_problems, build_test_program
 from src.executor import extract_code, run_program
 
-SAMPLES = "data/samples.jsonl"
-GRADES = "data/grades.jsonl"
-RESULTS = "data/results.json"
+SAMPLES = os.path.join(DATA_DIR, "samples.jsonl")
+GRADES = os.path.join(DATA_DIR, "grades.jsonl")
+RESULTS = os.path.join(DATA_DIR, "results.json")
 
 
 def grade_record(rec, problem):
@@ -32,6 +33,7 @@ def main(n_problems):
         todo = [r for r in map(json.loads, f)
                 if r["problem_id"] in problems
                 and (r["problem_id"], r["sample_idx"]) not in done]
+    print(f"run={DATA_DIR}")
     print(f"{len(todo)} samples to grade ({len(done)} already graded)")
 
     with ThreadPoolExecutor(8) as pool, \

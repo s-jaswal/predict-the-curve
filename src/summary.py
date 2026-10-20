@@ -1,9 +1,13 @@
 import json
+import os
 from collections import Counter
 
-res = json.load(open("data/results.json", encoding="utf-8"))
+from src.config import DATA_DIR
+
+res = json.load(open(os.path.join(DATA_DIR, "results.json"), encoding="utf-8"))
 fracs = {pid: v["c"] / v["n"] for pid, v in res.items()}
 n = len(fracs)
+print("run:", DATA_DIR)
 print("problems graded:", n)
 print("samples per problem:", Counter(v["n"] for v in res.values()))
 print("mean pass@1:", round(sum(fracs.values()) / n, 3))

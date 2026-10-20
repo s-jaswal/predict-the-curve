@@ -1,30 +1,61 @@
 import json
-from collections import Counter
+import os
+import sys
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor
 
-rows = [json.loads(line) for line in open("data/samples.jsonl", encoding="utf-8")]
-n = len(rows)
-print("records:", n)
-print("unique (problem, sample) pairs:",
-      len({(r["problem_id"], r["sample_idx"]) for r in rows}))
-print("stop reasons:", dict(Counter(r["stop_reason"] for r in rows)))
-print("empty answers:", sum(1 for r in rows if not r["raw"].strip()))
+from src.config import DATA_DIR
+from src.problems import load_problems, build_test_program
+from src.executor import extract_code, run_program
 
-with_tokens = [r for r in rows if "output_tokens" in r]
-print("records with token info:", len(with_tokens), "of", n)
+SAMPLES = os.path.join(DATA_DIR, "samples.jsonl")
+GRADES = os.path.join(DATA_DIR, "grades.jsonl")
+RESULTS = os.path.join(DATA_DIR, "results.json")
 
-if with_tokens:
-    m = len(with_tokens)
-    print("avg input tokens:", sum(r["input_tokens"] for r in with_tokens) / m)
-    print("avg output tokens:", sum(r["output_tokens"] for r in with_tokens) / m)
-    print("max output tokens:", max(r["output_tokens"] for r in with_tokens))
-    print()
-    print("block types per problem (newer records only):")
-    by_problem = {}
-    for r in with_tokens:
-        by_problem.setdefault(r["problem_id"], []).append(tuple(r["block_types"]))
-    for pid, bt in sorted(by_problem.items()):
-        print(" ", pid, dict(Counter(bt)))
 
-print()
-print("--- one sample answer ---")
-print(rows[0]["raw"][:600])
+def grade_record(rec, problem):
+    code = extract_code(rec["raw"])
+    ok = run_program(build_test_program(problem, code))
+    return {"problem_id": rec["problem_id"],
+            "sample_idx": rec["sample_idx"], "passed": ok}
+
+
+def main(n_problems):
+    problems = {p["id"]: p for p in load_problems(n=n_problems)}
+
+    done = set()
+    if os.path.exists(GRADES):
+        with open(GRADES, encoding="utf-8") as f:
+            done = {(r["problem_id"], r["sample_idx"])
+                    for r in map(json.loads, f)}
+
+    with open(SAMPLES, encoding="utf-8") as f:
+        todo = [r for r in map(json.loads, f)
+                if r["problem_id"] in problems
+                and (r["problem_id"], r["sample_idx"]) not in done]
+    print(f"run={DATA_DIR}")
+    print(f"{len(todo)} samples to grade ({len(done)} already graded)")
+
+    with ThreadPoolExecutor(8) as pool, \
+            open(GRADES, "a", encoding="utf-8") as out:
+        futures = [pool.submit(grade_record, r, problems[r["problem_id"]])
+                   for r in todo]
+        for fut in futures:
+            out.write(json.dumps(fut.result()) + "\n")
+            out.flush()
+
+    counts = defaultdict(lambda: {"n": 0, "c": 0})
+    with open(GRADES, encoding="utf-8") as f:
+        for r in map(json.loads, f):
+            if r["problem_id"] in problems:
+                counts[r["problem_id"]]["n"] += 1
+                counts[r["problem_id"]]["c"] += int(r["passed"])
+
+    with open(RESULTS, "w", encoding="utf-8") as f:
+        json.dump(counts, f, indent=2)
+    for pid, v in sorted(counts.items()):
+        print(pid, f'{v["c"]}/{v["n"]}')
+
+
+if __name__ == "__main__":
+    main(int(sys.argv[1]))

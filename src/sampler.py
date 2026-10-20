@@ -5,10 +5,10 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import anthropic
 
+from src.config import MODEL, DATA_DIR
 from src.problems import load_problems, build_prompt
 
-MODEL = "claude-haiku-5-5"
-CACHE = "data/samples.jsonl"
+CACHE = os.path.join(DATA_DIR, "samples.jsonl")
 SAMPLING_KWARGS = {"extra_body": {"temperature": 1.0}}
 
 client = anthropic.Anthropic(max_retries=5)
@@ -46,9 +46,10 @@ def main(n_problems, n_samples, workers=8):
     done = load_done()
     jobs = [(p, i) for p in problems for i in range(n_samples)
             if (p["id"], i) not in done]
+    print(f"run={DATA_DIR} model={MODEL}")
     print(f"{len(jobs)} calls to make ({len(done)} already cached)")
 
-    os.makedirs("data", exist_ok=True)
+    os.makedirs(DATA_DIR, exist_ok=True)
     with ThreadPoolExecutor(workers) as pool, \
             open(CACHE, "a", encoding="utf-8") as out:
         futures = {pool.submit(sample_one, p, i): (p["id"], i)
