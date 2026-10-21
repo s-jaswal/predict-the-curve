@@ -1,0 +1,500 @@
+{"problem_id": "MATH500/62", "sample_idx": 1, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/62", "sample_idx": 2, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/62", "sample_idx": 0, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/9", "sample_idx": 1, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/9", "sample_idx": 3, "passed": false, "pred": "3", "gold": "4"}
+{"problem_id": "MATH500/9", "sample_idx": 0, "passed": false, "pred": "10", "gold": "4"}
+{"problem_id": "MATH500/9", "sample_idx": 2, "passed": false, "pred": "7", "gold": "4"}
+{"problem_id": "MATH500/9", "sample_idx": 4, "passed": false, "pred": "8", "gold": "4"}
+{"problem_id": "MATH500/488", "sample_idx": 0, "passed": false, "pred": "36", "gold": "\\$36"}
+{"problem_id": "MATH500/94", "sample_idx": 2, "passed": false, "pred": "130\u00b0", "gold": "80"}
+{"problem_id": "MATH500/62", "sample_idx": 3, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/94", "sample_idx": 0, "passed": false, "pred": "130\u00b0", "gold": "80"}
+{"problem_id": "MATH500/94", "sample_idx": 1, "passed": true, "pred": "80", "gold": "80"}
+{"problem_id": "MATH500/62", "sample_idx": 4, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/488", "sample_idx": 1, "passed": false, "pred": "36", "gold": "\\$36"}
+{"problem_id": "MATH500/488", "sample_idx": 2, "passed": false, "pred": "36", "gold": "\\$36"}
+{"problem_id": "MATH500/488", "sample_idx": 3, "passed": false, "pred": "36", "gold": "\\$36"}
+{"problem_id": "MATH500/488", "sample_idx": 4, "passed": false, "pred": "36", "gold": "\\$36"}
+{"problem_id": "MATH500/94", "sample_idx": 4, "passed": true, "pred": "80", "gold": "80"}
+{"problem_id": "MATH500/94", "sample_idx": 3, "passed": false, "pred": "130", "gold": "80"}
+{"problem_id": "MATH500/415", "sample_idx": 0, "passed": true, "pred": "9", "gold": "9"}
+{"problem_id": "MATH500/415", "sample_idx": 1, "passed": true, "pred": "9", "gold": "9"}
+{"problem_id": "MATH500/415", "sample_idx": 2, "passed": true, "pred": "9", "gold": "9"}
+{"problem_id": "MATH500/400", "sample_idx": 3, "passed": false, "pred": "\\frac{14\\sqrt{3}}{3}", "gold": "\\frac{14}{3}"}
+{"problem_id": "MATH500/400", "sample_idx": 0, "passed": false, "pred": "\\frac{14}{1+\\sqrt{2}}", "gold": "\\frac{14}{3}"}
+{"problem_id": "MATH500/400", "sample_idx": 1, "passed": false, "pred": "\\frac{28}{3}", "gold": "\\frac{14}{3}"}
+{"problem_id": "MATH500/142", "sample_idx": 0, "passed": true, "pred": "28800", "gold": "28800"}
+{"problem_id": "MATH500/142", "sample_idx": 1, "passed": true, "pred": "28800", "gold": "28800"}
+{"problem_id": "MATH500/400", "sample_idx": 4, "passed": false, "pred": "14(\\sqrt{2}-1)", "gold": "\\frac{14}{3}"}
+{"problem_id": "MATH500/415", "sample_idx": 3, "passed": true, "pred": "9", "gold": "9"}
+{"problem_id": "MATH500/400", "sample_idx": 2, "passed": false, "pred": "\\frac{28}{9}", "gold": "\\frac{14}{3}"}
+{"problem_id": "MATH500/142", "sample_idx": 2, "passed": true, "pred": "28800", "gold": "28800"}
+{"problem_id": "MATH500/415", "sample_idx": 4, "passed": true, "pred": "9", "gold": "9"}
+{"problem_id": "MATH500/142", "sample_idx": 3, "passed": true, "pred": "28800", "gold": "28800"}
+{"problem_id": "MATH500/142", "sample_idx": 4, "passed": true, "pred": "28800", "gold": "28800"}
+{"problem_id": "MATH500/136", "sample_idx": 2, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/136", "sample_idx": 0, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/136", "sample_idx": 3, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/136", "sample_idx": 1, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/136", "sample_idx": 4, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/313", "sample_idx": 1, "passed": true, "pred": "12\\pi", "gold": "12\\pi"}
+{"problem_id": "MATH500/313", "sample_idx": 0, "passed": true, "pred": "12\\pi", "gold": "12\\pi"}
+{"problem_id": "MATH500/152", "sample_idx": 0, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/152", "sample_idx": 1, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/313", "sample_idx": 2, "passed": true, "pred": "12\\pi", "gold": "12\\pi"}
+{"problem_id": "MATH500/313", "sample_idx": 4, "passed": true, "pred": "12\\pi", "gold": "12\\pi"}
+{"problem_id": "MATH500/313", "sample_idx": 3, "passed": true, "pred": "12\\pi", "gold": "12\\pi"}
+{"problem_id": "MATH500/152", "sample_idx": 2, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/238", "sample_idx": 0, "passed": true, "pred": "-4", "gold": "-4"}
+{"problem_id": "MATH500/152", "sample_idx": 3, "passed": false, "pred": "16", "gold": "8"}
+{"problem_id": "MATH500/152", "sample_idx": 4, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/238", "sample_idx": 1, "passed": true, "pred": "-4", "gold": "-4"}
+{"problem_id": "MATH500/381", "sample_idx": 1, "passed": false, "pred": "\\frac{4}{9}", "gold": "\\frac{1}{2}"}
+{"problem_id": "MATH500/381", "sample_idx": 0, "passed": false, "pred": "\\frac{1}{18}", "gold": "\\frac{1}{2}"}
+{"problem_id": "MATH500/381", "sample_idx": 3, "passed": false, "pred": "\\frac{4}{9}", "gold": "\\frac{1}{2}"}
+{"problem_id": "MATH500/381", "sample_idx": 2, "passed": false, "pred": "\\frac{2}{9}", "gold": "\\frac{1}{2}"}
+{"problem_id": "MATH500/381", "sample_idx": 4, "passed": false, "pred": "\\frac{4}{9}", "gold": "\\frac{1}{2}"}
+{"problem_id": "MATH500/238", "sample_idx": 2, "passed": true, "pred": "-4", "gold": "-4"}
+{"problem_id": "MATH500/238", "sample_idx": 3, "passed": true, "pred": "-4", "gold": "-4"}
+{"problem_id": "MATH500/238", "sample_idx": 4, "passed": true, "pred": "-4", "gold": "-4"}
+{"problem_id": "MATH500/145", "sample_idx": 2, "passed": false, "pred": "\\frac{1+\\sqrt{5}}{2}", "gold": "-2"}
+{"problem_id": "MATH500/26", "sample_idx": 1, "passed": true, "pred": "144", "gold": "144"}
+{"problem_id": "MATH500/145", "sample_idx": 1, "passed": false, "pred": "\\frac{1+\\sqrt{5}}{2}", "gold": "-2"}
+{"problem_id": "MATH500/145", "sample_idx": 0, "passed": false, "pred": "L_{85}", "gold": "-2"}
+{"problem_id": "MATH500/145", "sample_idx": 3, "passed": false, "pred": "\\frac{1+\\sqrt{5}}{2}", "gold": "-2"}
+{"problem_id": "MATH500/145", "sample_idx": 4, "passed": false, "pred": "\\frac{1+\\sqrt{5}}{2}", "gold": "-2"}
+{"problem_id": "MATH500/26", "sample_idx": 0, "passed": false, "pred": "48", "gold": "144"}
+{"problem_id": "MATH500/26", "sample_idx": 2, "passed": true, "pred": "144", "gold": "144"}
+{"problem_id": "MATH500/394", "sample_idx": 1, "passed": true, "pred": "-\\frac{3}{8}", "gold": "-\\frac{3}{8}"}
+{"problem_id": "MATH500/394", "sample_idx": 2, "passed": true, "pred": "-\\frac{3}{8}", "gold": "-\\frac{3}{8}"}
+{"problem_id": "MATH500/394", "sample_idx": 3, "passed": true, "pred": "-\\frac{3}{8}", "gold": "-\\frac{3}{8}"}
+{"problem_id": "MATH500/394", "sample_idx": 0, "passed": true, "pred": "-\\frac{3}{8}", "gold": "-\\frac{3}{8}"}
+{"problem_id": "MATH500/417", "sample_idx": 0, "passed": true, "pred": "-2", "gold": "-2"}
+{"problem_id": "MATH500/394", "sample_idx": 4, "passed": true, "pred": "-\\frac{3}{8}", "gold": "-\\frac{3}{8}"}
+{"problem_id": "MATH500/26", "sample_idx": 3, "passed": true, "pred": "144", "gold": "144"}
+{"problem_id": "MATH500/26", "sample_idx": 4, "passed": true, "pred": "144", "gold": "144"}
+{"problem_id": "MATH500/417", "sample_idx": 1, "passed": true, "pred": "-2", "gold": "-2"}
+{"problem_id": "MATH500/417", "sample_idx": 3, "passed": true, "pred": "-2", "gold": "-2"}
+{"problem_id": "MATH500/417", "sample_idx": 4, "passed": true, "pred": "-2", "gold": "-2"}
+{"problem_id": "MATH500/417", "sample_idx": 2, "passed": true, "pred": "-2", "gold": "-2"}
+{"problem_id": "MATH500/24", "sample_idx": 1, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/24", "sample_idx": 0, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/24", "sample_idx": 3, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/24", "sample_idx": 2, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/382", "sample_idx": 0, "passed": true, "pred": "\\frac{20000}{\\pi}", "gold": "\\frac{20000}{\\pi}"}
+{"problem_id": "MATH500/382", "sample_idx": 1, "passed": true, "pred": "\\frac{20000}{\\pi}", "gold": "\\frac{20000}{\\pi}"}
+{"problem_id": "MATH500/24", "sample_idx": 4, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/382", "sample_idx": 2, "passed": true, "pred": "\\frac{20000}{\\pi}", "gold": "\\frac{20000}{\\pi}"}
+{"problem_id": "MATH500/382", "sample_idx": 4, "passed": true, "pred": "\\frac{20000}{\\pi}", "gold": "\\frac{20000}{\\pi}"}
+{"problem_id": "MATH500/382", "sample_idx": 3, "passed": true, "pred": "\\frac{20000}{\\pi}", "gold": "\\frac{20000}{\\pi}"}
+{"problem_id": "MATH500/432", "sample_idx": 0, "passed": true, "pred": "331", "gold": "331"}
+{"problem_id": "MATH500/432", "sample_idx": 1, "passed": true, "pred": "331", "gold": "331"}
+{"problem_id": "MATH500/197", "sample_idx": 0, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/197", "sample_idx": 2, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/432", "sample_idx": 3, "passed": true, "pred": "331", "gold": "331"}
+{"problem_id": "MATH500/197", "sample_idx": 1, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/432", "sample_idx": 2, "passed": true, "pred": "331", "gold": "331"}
+{"problem_id": "MATH500/432", "sample_idx": 4, "passed": true, "pred": "331", "gold": "331"}
+{"problem_id": "MATH500/197", "sample_idx": 3, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/163", "sample_idx": 0, "passed": true, "pred": "-\\frac{35}{9}", "gold": "-\\frac{35}{9}"}
+{"problem_id": "MATH500/163", "sample_idx": 3, "passed": true, "pred": "-\\frac{35}{9}", "gold": "-\\frac{35}{9}"}
+{"problem_id": "MATH500/202", "sample_idx": 0, "passed": true, "pred": "\\frac{2}{3}", "gold": "\\frac{2}{3}"}
+{"problem_id": "MATH500/163", "sample_idx": 2, "passed": true, "pred": "-\\frac{35}{9}", "gold": "-\\frac{35}{9}"}
+{"problem_id": "MATH500/197", "sample_idx": 4, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/163", "sample_idx": 1, "passed": true, "pred": "-\\frac{35}{9}", "gold": "-\\frac{35}{9}"}
+{"problem_id": "MATH500/163", "sample_idx": 4, "passed": true, "pred": "-\\frac{35}{9}", "gold": "-\\frac{35}{9}"}
+{"problem_id": "MATH500/202", "sample_idx": 2, "passed": true, "pred": "\\frac{2}{3}", "gold": "\\frac{2}{3}"}
+{"problem_id": "MATH500/202", "sample_idx": 3, "passed": true, "pred": "\\frac{2}{3}", "gold": "\\frac{2}{3}"}
+{"problem_id": "MATH500/202", "sample_idx": 1, "passed": true, "pred": "\\frac{2}{3}", "gold": "\\frac{2}{3}"}
+{"problem_id": "MATH500/202", "sample_idx": 4, "passed": true, "pred": "\\frac{2}{3}", "gold": "\\frac{2}{3}"}
+{"problem_id": "MATH500/276", "sample_idx": 0, "passed": true, "pred": "11", "gold": "11"}
+{"problem_id": "MATH500/276", "sample_idx": 3, "passed": true, "pred": "11", "gold": "11"}
+{"problem_id": "MATH500/276", "sample_idx": 2, "passed": true, "pred": "11", "gold": "11"}
+{"problem_id": "MATH500/276", "sample_idx": 1, "passed": true, "pred": "11", "gold": "11"}
+{"problem_id": "MATH500/214", "sample_idx": 0, "passed": true, "pred": "110", "gold": "110"}
+{"problem_id": "MATH500/276", "sample_idx": 4, "passed": true, "pred": "11", "gold": "11"}
+{"problem_id": "MATH500/214", "sample_idx": 2, "passed": true, "pred": "110", "gold": "110"}
+{"problem_id": "MATH500/214", "sample_idx": 1, "passed": true, "pred": "110", "gold": "110"}
+{"problem_id": "MATH500/214", "sample_idx": 3, "passed": true, "pred": "110", "gold": "110"}
+{"problem_id": "MATH500/214", "sample_idx": 4, "passed": true, "pred": "110", "gold": "110"}
+{"problem_id": "MATH500/423", "sample_idx": 1, "passed": true, "pred": "1440", "gold": "1440"}
+{"problem_id": "MATH500/423", "sample_idx": 0, "passed": true, "pred": "1440", "gold": "1440"}
+{"problem_id": "MATH500/423", "sample_idx": 3, "passed": true, "pred": "1440", "gold": "1440"}
+{"problem_id": "MATH500/423", "sample_idx": 2, "passed": true, "pred": "1440", "gold": "1440"}
+{"problem_id": "MATH500/423", "sample_idx": 4, "passed": true, "pred": "1440", "gold": "1440"}
+{"problem_id": "MATH500/390", "sample_idx": 1, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/390", "sample_idx": 0, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/390", "sample_idx": 2, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/390", "sample_idx": 3, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/390", "sample_idx": 4, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/204", "sample_idx": 1, "passed": false, "pred": "\\frac{9\\sqrt{3}}{8}", "gold": "0"}
+{"problem_id": "MATH500/204", "sample_idx": 0, "passed": false, "pred": "9", "gold": "0"}
+{"problem_id": "MATH500/204", "sample_idx": 3, "passed": false, "pred": "\\frac{9}{8}", "gold": "0"}
+{"problem_id": "MATH500/204", "sample_idx": 2, "passed": false, "pred": "\\frac{27}{8}", "gold": "0"}
+{"problem_id": "MATH500/204", "sample_idx": 4, "passed": false, "pred": "9", "gold": "0"}
+{"problem_id": "MATH500/239", "sample_idx": 0, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/239", "sample_idx": 1, "passed": false, "pred": "10", "gold": "16"}
+{"problem_id": "MATH500/239", "sample_idx": 2, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/239", "sample_idx": 4, "passed": false, "pred": "15", "gold": "16"}
+{"problem_id": "MATH500/239", "sample_idx": 3, "passed": false, "pred": "9", "gold": "16"}
+{"problem_id": "MATH500/80", "sample_idx": 0, "passed": true, "pred": "501", "gold": "501"}
+{"problem_id": "MATH500/80", "sample_idx": 1, "passed": true, "pred": "501", "gold": "501"}
+{"problem_id": "MATH500/80", "sample_idx": 2, "passed": true, "pred": "501", "gold": "501"}
+{"problem_id": "MATH500/80", "sample_idx": 3, "passed": true, "pred": "501", "gold": "501"}
+{"problem_id": "MATH500/80", "sample_idx": 4, "passed": true, "pred": "501", "gold": "501"}
+{"problem_id": "MATH500/497", "sample_idx": 0, "passed": true, "pred": "\\frac{7}{2}", "gold": "\\frac{7}{2}"}
+{"problem_id": "MATH500/482", "sample_idx": 0, "passed": true, "pred": "202", "gold": "202"}
+{"problem_id": "MATH500/497", "sample_idx": 1, "passed": true, "pred": "\\frac{7}{2}", "gold": "\\frac{7}{2}"}
+{"problem_id": "MATH500/482", "sample_idx": 1, "passed": true, "pred": "202", "gold": "202"}
+{"problem_id": "MATH500/497", "sample_idx": 2, "passed": false, "pred": "3", "gold": "\\frac{7}{2}"}
+{"problem_id": "MATH500/482", "sample_idx": 2, "passed": true, "pred": "202", "gold": "202"}
+{"problem_id": "MATH500/497", "sample_idx": 3, "passed": false, "pred": "3", "gold": "\\frac{7}{2}"}
+{"problem_id": "MATH500/497", "sample_idx": 4, "passed": false, "pred": "\\frac{13}{4}", "gold": "\\frac{7}{2}"}
+{"problem_id": "MATH500/482", "sample_idx": 3, "passed": true, "pred": "202", "gold": "202"}
+{"problem_id": "MATH500/190", "sample_idx": 0, "passed": true, "pred": "\\frac{13}{18}", "gold": "\\frac{13}{18}"}
+{"problem_id": "MATH500/482", "sample_idx": 4, "passed": true, "pred": "202", "gold": "202"}
+{"problem_id": "MATH500/190", "sample_idx": 1, "passed": true, "pred": "\\frac{13}{18}", "gold": "\\frac{13}{18}"}
+{"problem_id": "MATH500/190", "sample_idx": 2, "passed": true, "pred": "\\frac{13}{18}", "gold": "\\frac{13}{18}"}
+{"problem_id": "MATH500/190", "sample_idx": 3, "passed": true, "pred": "\\frac{13}{18}", "gold": "\\frac{13}{18}"}
+{"problem_id": "MATH500/190", "sample_idx": 4, "passed": true, "pred": "\\frac{13}{18}", "gold": "\\frac{13}{18}"}
+{"problem_id": "MATH500/425", "sample_idx": 3, "passed": true, "pred": "3R^2", "gold": "3R^2"}
+{"problem_id": "MATH500/425", "sample_idx": 1, "passed": true, "pred": "3R^2", "gold": "3R^2"}
+{"problem_id": "MATH500/323", "sample_idx": 1, "passed": true, "pred": "\\frac{1}{3}", "gold": "\\frac{1}{3}"}
+{"problem_id": "MATH500/425", "sample_idx": 0, "passed": true, "pred": "3R^2", "gold": "3R^2"}
+{"problem_id": "MATH500/425", "sample_idx": 2, "passed": true, "pred": "3R^2", "gold": "3R^2"}
+{"problem_id": "MATH500/323", "sample_idx": 0, "passed": true, "pred": "\\frac{1}{3}", "gold": "\\frac{1}{3}"}
+{"problem_id": "MATH500/425", "sample_idx": 4, "passed": false, "pred": "\\frac{R^2}{3} + \\frac{4(a^2 + b^2 + c^2)}{9}", "gold": "3R^2"}
+{"problem_id": "MATH500/323", "sample_idx": 2, "passed": true, "pred": "\\frac{1}{3}", "gold": "\\frac{1}{3}"}
+{"problem_id": "MATH500/479", "sample_idx": 0, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/323", "sample_idx": 3, "passed": true, "pred": "\\frac{1}{3}", "gold": "\\frac{1}{3}"}
+{"problem_id": "MATH500/11", "sample_idx": 2, "passed": false, "pred": "\\frac{1}{9}", "gold": "\\frac{3}{56}"}
+{"problem_id": "MATH500/11", "sample_idx": 0, "passed": false, "pred": "\\frac{104}{9}", "gold": "\\frac{3}{56}"}
+{"problem_id": "MATH500/11", "sample_idx": 1, "passed": false, "pred": "\\frac{104}{9}", "gold": "\\frac{3}{56}"}
+{"problem_id": "MATH500/479", "sample_idx": 1, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/11", "sample_idx": 4, "passed": false, "pred": "\\frac{8}{63}", "gold": "\\frac{3}{56}"}
+{"problem_id": "MATH500/11", "sample_idx": 3, "passed": false, "pred": "\\frac{824}{9}", "gold": "\\frac{3}{56}"}
+{"problem_id": "MATH500/479", "sample_idx": 2, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/323", "sample_idx": 4, "passed": true, "pred": "\\frac{1}{3}", "gold": "\\frac{1}{3}"}
+{"problem_id": "MATH500/479", "sample_idx": 3, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/434", "sample_idx": 0, "passed": true, "pred": "32", "gold": "32"}
+{"problem_id": "MATH500/434", "sample_idx": 3, "passed": true, "pred": "32", "gold": "32"}
+{"problem_id": "MATH500/434", "sample_idx": 1, "passed": true, "pred": "32", "gold": "32"}
+{"problem_id": "MATH500/479", "sample_idx": 4, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/434", "sample_idx": 2, "passed": true, "pred": "32", "gold": "32"}
+{"problem_id": "MATH500/434", "sample_idx": 4, "passed": true, "pred": "32", "gold": "32"}
+{"problem_id": "MATH500/52", "sample_idx": 0, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/52", "sample_idx": 1, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/392", "sample_idx": 0, "passed": true, "pred": "\\sqrt{66}", "gold": "\\sqrt{66}"}
+{"problem_id": "MATH500/52", "sample_idx": 2, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/392", "sample_idx": 1, "passed": true, "pred": "\\sqrt{66}", "gold": "\\sqrt{66}"}
+{"problem_id": "MATH500/52", "sample_idx": 4, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/392", "sample_idx": 3, "passed": true, "pred": "\\sqrt{66}", "gold": "\\sqrt{66}"}
+{"problem_id": "MATH500/52", "sample_idx": 3, "passed": true, "pred": "12", "gold": "12"}
+{"problem_id": "MATH500/392", "sample_idx": 4, "passed": true, "pred": "\\sqrt{66}", "gold": "\\sqrt{66}"}
+{"problem_id": "MATH500/392", "sample_idx": 2, "passed": false, "pred": "2\\sqrt{34}", "gold": "\\sqrt{66}"}
+{"problem_id": "MATH500/264", "sample_idx": 0, "passed": false, "pred": "1\\frac{2}{3}", "gold": "1\\frac{4}{5}"}
+{"problem_id": "MATH500/251", "sample_idx": 0, "passed": true, "pred": "540", "gold": "540"}
+{"problem_id": "MATH500/264", "sample_idx": 1, "passed": false, "pred": "1\\frac{1}{5}", "gold": "1\\frac{4}{5}"}
+{"problem_id": "MATH500/251", "sample_idx": 1, "passed": true, "pred": "540", "gold": "540"}
+{"problem_id": "MATH500/264", "sample_idx": 2, "passed": false, "pred": "3\\frac{3}{4}", "gold": "1\\frac{4}{5}"}
+{"problem_id": "MATH500/251", "sample_idx": 3, "passed": true, "pred": "540", "gold": "540"}
+{"problem_id": "MATH500/264", "sample_idx": 3, "passed": false, "pred": "3\\frac{3}{4}", "gold": "1\\frac{4}{5}"}
+{"problem_id": "MATH500/264", "sample_idx": 4, "passed": false, "pred": "1\\frac{3}{5}", "gold": "1\\frac{4}{5}"}
+{"problem_id": "MATH500/251", "sample_idx": 2, "passed": true, "pred": "540", "gold": "540"}
+{"problem_id": "MATH500/301", "sample_idx": 1, "passed": false, "pred": "5.4", "gold": "5.4 \\text{ cents}"}
+{"problem_id": "MATH500/301", "sample_idx": 0, "passed": false, "pred": "5.4", "gold": "5.4 \\text{ cents}"}
+{"problem_id": "MATH500/301", "sample_idx": 2, "passed": false, "pred": "5.4", "gold": "5.4 \\text{ cents}"}
+{"problem_id": "MATH500/301", "sample_idx": 3, "passed": false, "pred": "5.4", "gold": "5.4 \\text{ cents}"}
+{"problem_id": "MATH500/251", "sample_idx": 4, "passed": true, "pred": "540", "gold": "540"}
+{"problem_id": "MATH500/301", "sample_idx": 4, "passed": false, "pred": "5.4", "gold": "5.4 \\text{ cents}"}
+{"problem_id": "MATH500/493", "sample_idx": 2, "passed": true, "pred": "20", "gold": "20"}
+{"problem_id": "MATH500/493", "sample_idx": 0, "passed": true, "pred": "20", "gold": "20"}
+{"problem_id": "MATH500/493", "sample_idx": 1, "passed": true, "pred": "20", "gold": "20"}
+{"problem_id": "MATH500/493", "sample_idx": 3, "passed": true, "pred": "20", "gold": "20"}
+{"problem_id": "MATH500/493", "sample_idx": 4, "passed": true, "pred": "20", "gold": "20"}
+{"problem_id": "MATH500/321", "sample_idx": 0, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/321", "sample_idx": 1, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/321", "sample_idx": 2, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/321", "sample_idx": 3, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/306", "sample_idx": 0, "passed": false, "pred": "3", "gold": "6"}
+{"problem_id": "MATH500/321", "sample_idx": 4, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/306", "sample_idx": 1, "passed": false, "pred": "3", "gold": "6"}
+{"problem_id": "MATH500/306", "sample_idx": 4, "passed": false, "pred": "4", "gold": "6"}
+{"problem_id": "MATH500/306", "sample_idx": 2, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/306", "sample_idx": 3, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/150", "sample_idx": 1, "passed": true, "pred": "1", "gold": "1"}
+{"problem_id": "MATH500/150", "sample_idx": 0, "passed": true, "pred": "1", "gold": "1"}
+{"problem_id": "MATH500/150", "sample_idx": 2, "passed": true, "pred": "1", "gold": "1"}
+{"problem_id": "MATH500/150", "sample_idx": 3, "passed": true, "pred": "1", "gold": "1"}
+{"problem_id": "MATH500/150", "sample_idx": 4, "passed": true, "pred": "1", "gold": "1"}
+{"problem_id": "MATH500/327", "sample_idx": 0, "passed": true, "pred": "15", "gold": "15"}
+{"problem_id": "MATH500/252", "sample_idx": 0, "passed": true, "pred": "81", "gold": "81"}
+{"problem_id": "MATH500/327", "sample_idx": 2, "passed": true, "pred": "15", "gold": "15"}
+{"problem_id": "MATH500/327", "sample_idx": 1, "passed": true, "pred": "15", "gold": "15"}
+{"problem_id": "MATH500/252", "sample_idx": 1, "passed": true, "pred": "81", "gold": "81"}
+{"problem_id": "MATH500/252", "sample_idx": 2, "passed": true, "pred": "81", "gold": "81"}
+{"problem_id": "MATH500/327", "sample_idx": 3, "passed": true, "pred": "15", "gold": "15"}
+{"problem_id": "MATH500/162", "sample_idx": 0, "passed": true, "pred": "\\frac{17}{50}", "gold": "\\dfrac{17}{50}"}
+{"problem_id": "MATH500/327", "sample_idx": 4, "passed": true, "pred": "15", "gold": "15"}
+{"problem_id": "MATH500/162", "sample_idx": 1, "passed": true, "pred": "\\frac{17}{50}", "gold": "\\dfrac{17}{50}"}
+{"problem_id": "MATH500/252", "sample_idx": 3, "passed": true, "pred": "81", "gold": "81"}
+{"problem_id": "MATH500/252", "sample_idx": 4, "passed": true, "pred": "81", "gold": "81"}
+{"problem_id": "MATH500/162", "sample_idx": 2, "passed": true, "pred": "\\frac{17}{50}", "gold": "\\dfrac{17}{50}"}
+{"problem_id": "MATH500/162", "sample_idx": 3, "passed": true, "pred": "\\frac{17}{50}", "gold": "\\dfrac{17}{50}"}
+{"problem_id": "MATH500/162", "sample_idx": 4, "passed": true, "pred": "\\frac{17}{50}", "gold": "\\dfrac{17}{50}"}
+{"problem_id": "MATH500/466", "sample_idx": 4, "passed": true, "pred": "8\\pi", "gold": "8 \\pi"}
+{"problem_id": "MATH500/466", "sample_idx": 0, "passed": true, "pred": "8\\pi", "gold": "8 \\pi"}
+{"problem_id": "MATH500/466", "sample_idx": 3, "passed": true, "pred": "8\\pi", "gold": "8 \\pi"}
+{"problem_id": "MATH500/466", "sample_idx": 2, "passed": true, "pred": "8\\pi", "gold": "8 \\pi"}
+{"problem_id": "MATH500/466", "sample_idx": 1, "passed": true, "pred": "8\\pi", "gold": "8 \\pi"}
+{"problem_id": "MATH500/424", "sample_idx": 0, "passed": true, "pred": "600", "gold": "600"}
+{"problem_id": "MATH500/168", "sample_idx": 1, "passed": true, "pred": "19", "gold": "19"}
+{"problem_id": "MATH500/168", "sample_idx": 0, "passed": true, "pred": "19", "gold": "19"}
+{"problem_id": "MATH500/424", "sample_idx": 1, "passed": true, "pred": "600", "gold": "600"}
+{"problem_id": "MATH500/424", "sample_idx": 2, "passed": true, "pred": "600", "gold": "600"}
+{"problem_id": "MATH500/168", "sample_idx": 2, "passed": true, "pred": "19", "gold": "19"}
+{"problem_id": "MATH500/424", "sample_idx": 4, "passed": true, "pred": "600", "gold": "600"}
+{"problem_id": "MATH500/424", "sample_idx": 3, "passed": true, "pred": "600", "gold": "600"}
+{"problem_id": "MATH500/168", "sample_idx": 3, "passed": true, "pred": "19", "gold": "19"}
+{"problem_id": "MATH500/168", "sample_idx": 4, "passed": true, "pred": "19", "gold": "19"}
+{"problem_id": "MATH500/355", "sample_idx": 1, "passed": true, "pred": "100", "gold": "100"}
+{"problem_id": "MATH500/355", "sample_idx": 2, "passed": true, "pred": "100", "gold": "100"}
+{"problem_id": "MATH500/355", "sample_idx": 0, "passed": false, "pred": "80", "gold": "100"}
+{"problem_id": "MATH500/63", "sample_idx": 1, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/63", "sample_idx": 0, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/355", "sample_idx": 3, "passed": true, "pred": "100", "gold": "100"}
+{"problem_id": "MATH500/355", "sample_idx": 4, "passed": true, "pred": "100", "gold": "100"}
+{"problem_id": "MATH500/63", "sample_idx": 2, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/63", "sample_idx": 3, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/63", "sample_idx": 4, "passed": true, "pred": "10", "gold": "10"}
+{"problem_id": "MATH500/170", "sample_idx": 0, "passed": true, "pred": "1736", "gold": "1736"}
+{"problem_id": "MATH500/373", "sample_idx": 1, "passed": true, "pred": "1+2i", "gold": "1+2i"}
+{"problem_id": "MATH500/170", "sample_idx": 3, "passed": true, "pred": "1736", "gold": "1736"}
+{"problem_id": "MATH500/373", "sample_idx": 2, "passed": true, "pred": "1+2i", "gold": "1+2i"}
+{"problem_id": "MATH500/373", "sample_idx": 0, "passed": true, "pred": "1+2i", "gold": "1+2i"}
+{"problem_id": "MATH500/170", "sample_idx": 1, "passed": true, "pred": "1736", "gold": "1736"}
+{"problem_id": "MATH500/170", "sample_idx": 2, "passed": true, "pred": "1736", "gold": "1736"}
+{"problem_id": "MATH500/170", "sample_idx": 4, "passed": true, "pred": "1736", "gold": "1736"}
+{"problem_id": "MATH500/373", "sample_idx": 4, "passed": true, "pred": "1+2i", "gold": "1+2i"}
+{"problem_id": "MATH500/373", "sample_idx": 3, "passed": true, "pred": "1+2i", "gold": "1+2i"}
+{"problem_id": "MATH500/244", "sample_idx": 0, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/244", "sample_idx": 2, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/244", "sample_idx": 1, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/96", "sample_idx": 0, "passed": false, "pred": "0, 2", "gold": "1 \\pm \\sqrt{19}"}
+{"problem_id": "MATH500/96", "sample_idx": 3, "passed": false, "pred": "1-\\sqrt{3}, 1+\\sqrt{3}", "gold": "1 \\pm \\sqrt{19}"}
+{"problem_id": "MATH500/96", "sample_idx": 1, "passed": false, "pred": "1 - \\sqrt{19}, 1 + \\sqrt{19}", "gold": "1 \\pm \\sqrt{19}"}
+{"problem_id": "MATH500/244", "sample_idx": 3, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/96", "sample_idx": 4, "passed": false, "pred": "1", "gold": "1 \\pm \\sqrt{19}"}
+{"problem_id": "MATH500/96", "sample_idx": 2, "passed": false, "pred": "1 + \\sqrt{\\frac{83+12\\sqrt{161}}{11}}, 1 - \\sqrt{\\frac{83+12\\sqrt{161}}{11}}", "gold": "1 \\pm \\sqrt{19}"}
+{"problem_id": "MATH500/244", "sample_idx": 4, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/284", "sample_idx": 0, "passed": false, "pred": "3-2\\sqrt{2}, 3+2\\sqrt{2}, -3-2\\sqrt{2}, -3+2\\sqrt{2}", "gold": "3 \\pm 2 \\sqrt{2}"}
+{"problem_id": "MATH500/284", "sample_idx": 2, "passed": false, "pred": "3 + 2\\sqrt{2}, 3 - 2\\sqrt{2}, -3 + 2\\sqrt{2}, -3 - 2\\sqrt{2}", "gold": "3 \\pm 2 \\sqrt{2}"}
+{"problem_id": "MATH500/284", "sample_idx": 4, "passed": false, "pred": "3+2\\sqrt{2}, 3-2\\sqrt{2}, -3+2\\sqrt{2}, -3-2\\sqrt{2}", "gold": "3 \\pm 2 \\sqrt{2}"}
+{"problem_id": "MATH500/284", "sample_idx": 3, "passed": false, "pred": "3+2\\sqrt{2}, 3-2\\sqrt{2}, -3+2\\sqrt{2}, -3-2\\sqrt{2}", "gold": "3 \\pm 2 \\sqrt{2}"}
+{"problem_id": "MATH500/284", "sample_idx": 1, "passed": false, "pred": "\\text{No solutions}", "gold": "3 \\pm 2 \\sqrt{2}"}
+{"problem_id": "MATH500/100", "sample_idx": 2, "passed": true, "pred": "145", "gold": "145^\\circ"}
+{"problem_id": "MATH500/418", "sample_idx": 1, "passed": true, "pred": "2\\sqrt{5}", "gold": "2\\sqrt{5}"}
+{"problem_id": "MATH500/418", "sample_idx": 0, "passed": true, "pred": "2\\sqrt{5}", "gold": "2\\sqrt{5}"}
+{"problem_id": "MATH500/100", "sample_idx": 1, "passed": false, "pred": "95", "gold": "145^\\circ"}
+{"problem_id": "MATH500/418", "sample_idx": 2, "passed": true, "pred": "2\\sqrt{5}", "gold": "2\\sqrt{5}"}
+{"problem_id": "MATH500/418", "sample_idx": 3, "passed": true, "pred": "2\\sqrt{5}", "gold": "2\\sqrt{5}"}
+{"problem_id": "MATH500/418", "sample_idx": 4, "passed": true, "pred": "2\\sqrt{5}", "gold": "2\\sqrt{5}"}
+{"problem_id": "MATH500/166", "sample_idx": 0, "passed": false, "pred": "\\frac{270}{7}", "gold": "\\frac{270}7\\text{ degrees}"}
+{"problem_id": "MATH500/100", "sample_idx": 3, "passed": false, "pred": "115", "gold": "145^\\circ"}
+{"problem_id": "MATH500/166", "sample_idx": 2, "passed": false, "pred": "\\frac{270}{7}", "gold": "\\frac{270}7\\text{ degrees}"}
+{"problem_id": "MATH500/100", "sample_idx": 0, "passed": false, "pred": "115", "gold": "145^\\circ"}
+{"problem_id": "MATH500/279", "sample_idx": 0, "passed": true, "pred": "7\\pi", "gold": "7\\pi"}
+{"problem_id": "MATH500/166", "sample_idx": 4, "passed": false, "pred": "\\frac{270}{7}", "gold": "\\frac{270}7\\text{ degrees}"}
+{"problem_id": "MATH500/279", "sample_idx": 1, "passed": true, "pred": "7\\pi", "gold": "7\\pi"}
+{"problem_id": "MATH500/100", "sample_idx": 4, "passed": true, "pred": "145", "gold": "145^\\circ"}
+{"problem_id": "MATH500/279", "sample_idx": 2, "passed": true, "pred": "7\\pi", "gold": "7\\pi"}
+{"problem_id": "MATH500/166", "sample_idx": 1, "passed": false, "pred": "\\frac{270}{7}", "gold": "\\frac{270}7\\text{ degrees}"}
+{"problem_id": "MATH500/166", "sample_idx": 3, "passed": false, "pred": "\\frac{270}{7}", "gold": "\\frac{270}7\\text{ degrees}"}
+{"problem_id": "MATH500/279", "sample_idx": 4, "passed": true, "pred": "7\\pi", "gold": "7\\pi"}
+{"problem_id": "MATH500/279", "sample_idx": 3, "passed": true, "pred": "7\\pi", "gold": "7\\pi"}
+{"problem_id": "MATH500/320", "sample_idx": 0, "passed": true, "pred": "-\\frac{24}{25}", "gold": "-\\frac{24}{25}"}
+{"problem_id": "MATH500/320", "sample_idx": 1, "passed": true, "pred": "-\\frac{24}{25}", "gold": "-\\frac{24}{25}"}
+{"problem_id": "MATH500/320", "sample_idx": 2, "passed": true, "pred": "-\\frac{24}{25}", "gold": "-\\frac{24}{25}"}
+{"problem_id": "MATH500/481", "sample_idx": 0, "passed": true, "pred": "8n^2 + 4n + 1", "gold": "8n^2 + 4n + 1"}
+{"problem_id": "MATH500/481", "sample_idx": 1, "passed": false, "pred": "\\frac{16n^2 - 8n + 1}{5}", "gold": "8n^2 + 4n + 1"}
+{"problem_id": "MATH500/481", "sample_idx": 3, "passed": false, "pred": "\\frac{8n^2 + 2n + 1}{8}", "gold": "8n^2 + 4n + 1"}
+{"problem_id": "MATH500/320", "sample_idx": 3, "passed": true, "pred": "-\\frac{24}{25}", "gold": "-\\frac{24}{25}"}
+{"problem_id": "MATH500/481", "sample_idx": 2, "passed": false, "pred": "\\frac{4n^2 + 2n + 1}{2}", "gold": "8n^2 + 4n + 1"}
+{"problem_id": "MATH500/481", "sample_idx": 4, "passed": false, "pred": "13", "gold": "8n^2 + 4n + 1"}
+{"problem_id": "MATH500/357", "sample_idx": 0, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/320", "sample_idx": 4, "passed": true, "pred": "-\\frac{24}{25}", "gold": "-\\frac{24}{25}"}
+{"problem_id": "MATH500/357", "sample_idx": 1, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/357", "sample_idx": 2, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/357", "sample_idx": 4, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/357", "sample_idx": 3, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/331", "sample_idx": 1, "passed": true, "pred": "\\frac{13}{6}", "gold": "\\frac{13}{6}"}
+{"problem_id": "MATH500/331", "sample_idx": 0, "passed": true, "pred": "\\frac{13}{6}", "gold": "\\frac{13}{6}"}
+{"problem_id": "MATH500/421", "sample_idx": 0, "passed": true, "pred": "27", "gold": "27"}
+{"problem_id": "MATH500/331", "sample_idx": 2, "passed": true, "pred": "\\frac{13}{6}", "gold": "\\frac{13}{6}"}
+{"problem_id": "MATH500/421", "sample_idx": 1, "passed": true, "pred": "27", "gold": "27"}
+{"problem_id": "MATH500/421", "sample_idx": 3, "passed": true, "pred": "27", "gold": "27"}
+{"problem_id": "MATH500/421", "sample_idx": 2, "passed": true, "pred": "27", "gold": "27"}
+{"problem_id": "MATH500/421", "sample_idx": 4, "passed": true, "pred": "27", "gold": "27"}
+{"problem_id": "MATH500/331", "sample_idx": 4, "passed": true, "pred": "\\frac{13}{6}", "gold": "\\frac{13}{6}"}
+{"problem_id": "MATH500/331", "sample_idx": 3, "passed": true, "pred": "\\frac{13}{6}", "gold": "\\frac{13}{6}"}
+{"problem_id": "MATH500/448", "sample_idx": 1, "passed": true, "pred": "44", "gold": "44"}
+{"problem_id": "MATH500/448", "sample_idx": 0, "passed": true, "pred": "44", "gold": "44"}
+{"problem_id": "MATH500/408", "sample_idx": 0, "passed": true, "pred": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}", "gold": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"}
+{"problem_id": "MATH500/448", "sample_idx": 2, "passed": true, "pred": "44", "gold": "44"}
+{"problem_id": "MATH500/408", "sample_idx": 1, "passed": true, "pred": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}", "gold": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"}
+{"problem_id": "MATH500/408", "sample_idx": 2, "passed": true, "pred": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}", "gold": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"}
+{"problem_id": "MATH500/408", "sample_idx": 3, "passed": false, "pred": "\\begin{pmatrix} \\frac{1}{5} \\\\ -\\frac{18}{5} \\end{pmatrix}", "gold": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"}
+{"problem_id": "MATH500/408", "sample_idx": 4, "passed": false, "pred": "\\begin{pmatrix} \\frac{1}{5} \\\\ -\\frac{18}{5} \\end{pmatrix}", "gold": "\\begin{pmatrix} 1/5 \\\\ -18/5 \\end{pmatrix}"}
+{"problem_id": "MATH500/448", "sample_idx": 3, "passed": true, "pred": "44", "gold": "44"}
+{"problem_id": "MATH500/448", "sample_idx": 4, "passed": true, "pred": "44", "gold": "44"}
+{"problem_id": "MATH500/328", "sample_idx": 0, "passed": true, "pred": "3", "gold": "3"}
+{"problem_id": "MATH500/328", "sample_idx": 2, "passed": true, "pred": "3", "gold": "3"}
+{"problem_id": "MATH500/25", "sample_idx": 0, "passed": false, "pred": "-2, 1", "gold": "1,-2"}
+{"problem_id": "MATH500/328", "sample_idx": 1, "passed": true, "pred": "3", "gold": "3"}
+{"problem_id": "MATH500/328", "sample_idx": 3, "passed": true, "pred": "3", "gold": "3"}
+{"problem_id": "MATH500/328", "sample_idx": 4, "passed": true, "pred": "3", "gold": "3"}
+{"problem_id": "MATH500/25", "sample_idx": 2, "passed": false, "pred": "-2, 1", "gold": "1,-2"}
+{"problem_id": "MATH500/25", "sample_idx": 1, "passed": false, "pred": "-2, 1", "gold": "1,-2"}
+{"problem_id": "MATH500/25", "sample_idx": 3, "passed": false, "pred": "-2, 1", "gold": "1,-2"}
+{"problem_id": "MATH500/25", "sample_idx": 4, "passed": false, "pred": "-2, 1", "gold": "1,-2"}
+{"problem_id": "MATH500/101", "sample_idx": 1, "passed": true, "pred": "850", "gold": "850"}
+{"problem_id": "MATH500/101", "sample_idx": 0, "passed": true, "pred": "850", "gold": "850"}
+{"problem_id": "MATH500/101", "sample_idx": 2, "passed": true, "pred": "850", "gold": "850"}
+{"problem_id": "MATH500/101", "sample_idx": 3, "passed": true, "pred": "850", "gold": "850"}
+{"problem_id": "MATH500/101", "sample_idx": 4, "passed": true, "pred": "850", "gold": "850"}
+{"problem_id": "MATH500/303", "sample_idx": 0, "passed": true, "pred": "28", "gold": "28"}
+{"problem_id": "MATH500/303", "sample_idx": 3, "passed": true, "pred": "28", "gold": "28"}
+{"problem_id": "MATH500/189", "sample_idx": 0, "passed": true, "pred": "160", "gold": "160"}
+{"problem_id": "MATH500/303", "sample_idx": 2, "passed": true, "pred": "28", "gold": "28"}
+{"problem_id": "MATH500/303", "sample_idx": 1, "passed": true, "pred": "28", "gold": "28"}
+{"problem_id": "MATH500/189", "sample_idx": 1, "passed": true, "pred": "160", "gold": "160"}
+{"problem_id": "MATH500/303", "sample_idx": 4, "passed": true, "pred": "28", "gold": "28"}
+{"problem_id": "MATH500/189", "sample_idx": 2, "passed": true, "pred": "160", "gold": "160"}
+{"problem_id": "MATH500/189", "sample_idx": 3, "passed": true, "pred": "160", "gold": "160"}
+{"problem_id": "MATH500/189", "sample_idx": 4, "passed": true, "pred": "160", "gold": "160"}
+{"problem_id": "MATH500/154", "sample_idx": 1, "passed": false, "pred": "2\\sqrt{106}", "gold": "2\\sqrt{113}"}
+{"problem_id": "MATH500/154", "sample_idx": 0, "passed": false, "pred": "\\sqrt{157}", "gold": "2\\sqrt{113}"}
+{"problem_id": "MATH500/494", "sample_idx": 4, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/494", "sample_idx": 3, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/494", "sample_idx": 2, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/494", "sample_idx": 1, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/154", "sample_idx": 4, "passed": false, "pred": "\\sqrt{157}", "gold": "2\\sqrt{113}"}
+{"problem_id": "MATH500/494", "sample_idx": 0, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/154", "sample_idx": 3, "passed": false, "pred": "\\sqrt{181}", "gold": "2\\sqrt{113}"}
+{"problem_id": "MATH500/154", "sample_idx": 2, "passed": false, "pred": "2\\sqrt{26}", "gold": "2\\sqrt{113}"}
+{"problem_id": "MATH500/365", "sample_idx": 1, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/365", "sample_idx": 0, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/43", "sample_idx": 1, "passed": false, "pred": "10 + 20\\sqrt{5}", "gold": "70 \\sqrt{2}"}
+{"problem_id": "MATH500/365", "sample_idx": 2, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/43", "sample_idx": 0, "passed": false, "pred": "20 + 20\\sqrt{5}", "gold": "70 \\sqrt{2}"}
+{"problem_id": "MATH500/43", "sample_idx": 3, "passed": false, "pred": "60", "gold": "70 \\sqrt{2}"}
+{"problem_id": "MATH500/43", "sample_idx": 2, "passed": false, "pred": "50", "gold": "70 \\sqrt{2}"}
+{"problem_id": "MATH500/43", "sample_idx": 4, "passed": false, "pred": "50", "gold": "70 \\sqrt{2}"}
+{"problem_id": "MATH500/365", "sample_idx": 3, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/60", "sample_idx": 0, "passed": false, "pred": "(-3, 4, -1)", "gold": "(6,31,-1)"}
+{"problem_id": "MATH500/365", "sample_idx": 4, "passed": true, "pred": "8", "gold": "8"}
+{"problem_id": "MATH500/286", "sample_idx": 0, "passed": false, "pred": "\\frac{5}{12}", "gold": "\\frac{17}{21}"}
+{"problem_id": "MATH500/60", "sample_idx": 1, "passed": false, "pred": "(-3, -4, -1)", "gold": "(6,31,-1)"}
+{"problem_id": "MATH500/60", "sample_idx": 2, "passed": true, "pred": "(6, 31, -1)", "gold": "(6,31,-1)"}
+{"problem_id": "MATH500/60", "sample_idx": 3, "passed": false, "pred": "(-3, -9, -1)", "gold": "(6,31,-1)"}
+{"problem_id": "MATH500/60", "sample_idx": 4, "passed": false, "pred": "(-3, 4, -1)", "gold": "(6,31,-1)"}
+{"problem_id": "MATH500/286", "sample_idx": 1, "passed": false, "pred": "\\frac{4}{3}", "gold": "\\frac{17}{21}"}
+{"problem_id": "MATH500/242", "sample_idx": 1, "passed": false, "pred": "32348", "gold": "\\$32,\\!348"}
+{"problem_id": "MATH500/242", "sample_idx": 0, "passed": false, "pred": "32348", "gold": "\\$32,\\!348"}
+{"problem_id": "MATH500/242", "sample_idx": 2, "passed": false, "pred": "32348", "gold": "\\$32,\\!348"}
+{"problem_id": "MATH500/242", "sample_idx": 3, "passed": false, "pred": "32348", "gold": "\\$32,\\!348"}
+{"problem_id": "MATH500/286", "sample_idx": 3, "passed": false, "pred": "\\frac{5}{24}", "gold": "\\frac{17}{21}"}
+{"problem_id": "MATH500/286", "sample_idx": 2, "passed": false, "pred": "\\frac{1}{2}", "gold": "\\frac{17}{21}"}
+{"problem_id": "MATH500/22", "sample_idx": 1, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/22", "sample_idx": 0, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/242", "sample_idx": 4, "passed": false, "pred": "32348", "gold": "\\$32,\\!348"}
+{"problem_id": "MATH500/286", "sample_idx": 4, "passed": false, "pred": "\\frac{4}{3}", "gold": "\\frac{17}{21}"}
+{"problem_id": "MATH500/22", "sample_idx": 3, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/22", "sample_idx": 2, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/22", "sample_idx": 4, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/147", "sample_idx": 1, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/435", "sample_idx": 0, "passed": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "gold": "(-\\infty, 2) \\cup (3, \\infty)"}
+{"problem_id": "MATH500/435", "sample_idx": 1, "passed": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "gold": "(-\\infty, 2) \\cup (3, \\infty)"}
+{"problem_id": "MATH500/435", "sample_idx": 2, "passed": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "gold": "(-\\infty, 2) \\cup (3, \\infty)"}
+{"problem_id": "MATH500/147", "sample_idx": 4, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/147", "sample_idx": 0, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/147", "sample_idx": 3, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/147", "sample_idx": 2, "passed": true, "pred": "16", "gold": "16"}
+{"problem_id": "MATH500/435", "sample_idx": 3, "passed": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "gold": "(-\\infty, 2) \\cup (3, \\infty)"}
+{"problem_id": "MATH500/435", "sample_idx": 4, "passed": true, "pred": "(-\\infty, 2) \\cup (3, \\infty)", "gold": "(-\\infty, 2) \\cup (3, \\infty)"}
+{"problem_id": "MATH500/188", "sample_idx": 0, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/184", "sample_idx": 0, "passed": false, "pred": "\\left[\\frac{5}{2}, \\infty\\right)", "gold": "(2,\\infty)"}
+{"problem_id": "MATH500/188", "sample_idx": 1, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/188", "sample_idx": 2, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/184", "sample_idx": 1, "passed": false, "pred": "[1 + \\sqrt{2}, \\infty)", "gold": "(2,\\infty)"}
+{"problem_id": "MATH500/184", "sample_idx": 2, "passed": true, "pred": "(2, \\infty)", "gold": "(2,\\infty)"}
+{"problem_id": "MATH500/184", "sample_idx": 4, "passed": false, "pred": "[2, \\infty)", "gold": "(2,\\infty)"}
+{"problem_id": "MATH500/47", "sample_idx": 0, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/184", "sample_idx": 3, "passed": true, "pred": "(2,\\infty)", "gold": "(2,\\infty)"}
+{"problem_id": "MATH500/47", "sample_idx": 1, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/188", "sample_idx": 3, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/47", "sample_idx": 3, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/47", "sample_idx": 2, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/47", "sample_idx": 4, "passed": true, "pred": "5", "gold": "5"}
+{"problem_id": "MATH500/188", "sample_idx": 4, "passed": true, "pred": "6", "gold": "6"}
+{"problem_id": "MATH500/194", "sample_idx": 3, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/194", "sample_idx": 0, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/194", "sample_idx": 2, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/454", "sample_idx": 0, "passed": true, "pred": "y = 2x + 3", "gold": "y = 2x + 3"}
+{"problem_id": "MATH500/194", "sample_idx": 1, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/194", "sample_idx": 4, "passed": true, "pred": "\\frac{1}{4}", "gold": "\\frac{1}{4}"}
+{"problem_id": "MATH500/454", "sample_idx": 1, "passed": true, "pred": "y = 2x + 3", "gold": "y = 2x + 3"}
+{"problem_id": "MATH500/454", "sample_idx": 2, "passed": true, "pred": "y = 2x + 3", "gold": "y = 2x + 3"}
+{"problem_id": "MATH500/388", "sample_idx": 0, "passed": true, "pred": "\\frac{11}{2}", "gold": "\\frac{11}{2}"}
+{"problem_id": "MATH500/50", "sample_idx": 0, "passed": true, "pred": "203", "gold": "203"}
+{"problem_id": "MATH500/50", "sample_idx": 1, "passed": true, "pred": "203", "gold": "203"}
+{"problem_id": "MATH500/50", "sample_idx": 4, "passed": true, "pred": "203", "gold": "203"}
+{"problem_id": "MATH500/50", "sample_idx": 2, "passed": true, "pred": "203", "gold": "203"}
+{"problem_id": "MATH500/50", "sample_idx": 3, "passed": true, "pred": "203", "gold": "203"}
+{"problem_id": "MATH500/454", "sample_idx": 3, "passed": true, "pred": "y = 2x + 3", "gold": "y = 2x + 3"}
+{"problem_id": "MATH500/388", "sample_idx": 1, "passed": true, "pred": "\\frac{11}{2}", "gold": "\\frac{11}{2}"}
+{"problem_id": "MATH500/388", "sample_idx": 2, "passed": true, "pred": "\\frac{11}{2}", "gold": "\\frac{11}{2}"}
+{"problem_id": "MATH500/454", "sample_idx": 4, "passed": true, "pred": "y = 2x + 3", "gold": "y = 2x + 3"}
+{"problem_id": "MATH500/388", "sample_idx": 3, "passed": true, "pred": "\\frac{11}{2}", "gold": "\\frac{11}{2}"}
+{"problem_id": "MATH500/388", "sample_idx": 4, "passed": true, "pred": "\\frac{11}{2}", "gold": "\\frac{11}{2}"}
+{"problem_id": "MATH500/450", "sample_idx": 0, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/450", "sample_idx": 1, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/82", "sample_idx": 0, "passed": true, "pred": "\\frac{3}{2}", "gold": "\\frac{3}{2}"}
+{"problem_id": "MATH500/450", "sample_idx": 3, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/450", "sample_idx": 2, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/450", "sample_idx": 4, "passed": true, "pred": "64", "gold": "64"}
+{"problem_id": "MATH500/82", "sample_idx": 2, "passed": true, "pred": "\\frac{3}{2}", "gold": "\\frac{3}{2}"}
+{"problem_id": "MATH500/82", "sample_idx": 1, "passed": true, "pred": "\\frac{3}{2}", "gold": "\\frac{3}{2}"}
+{"problem_id": "MATH500/82", "sample_idx": 3, "passed": true, "pred": "\\frac{3}{2}", "gold": "\\frac{3}{2}"}
+{"problem_id": "MATH500/82", "sample_idx": 4, "passed": true, "pred": "\\frac{3}{2}", "gold": "\\frac{3}{2}"}
+{"problem_id": "MATH500/173", "sample_idx": 0, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/401", "sample_idx": 0, "passed": true, "pred": "\\frac{13}{4}", "gold": "\\frac{13}{4}"}
+{"problem_id": "MATH500/401", "sample_idx": 4, "passed": true, "pred": "\\frac{13}{4}", "gold": "\\frac{13}{4}"}
+{"problem_id": "MATH500/401", "sample_idx": 3, "passed": true, "pred": "\\frac{13}{4}", "gold": "\\frac{13}{4}"}
+{"problem_id": "MATH500/401", "sample_idx": 1, "passed": true, "pred": "\\frac{13}{4}", "gold": "\\frac{13}{4}"}
+{"problem_id": "MATH500/173", "sample_idx": 1, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/401", "sample_idx": 2, "passed": false, "pred": "3", "gold": "\\frac{13}{4}"}
+{"problem_id": "MATH500/173", "sample_idx": 2, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/173", "sample_idx": 4, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/173", "sample_idx": 3, "passed": true, "pred": "4", "gold": "4"}
+{"problem_id": "MATH500/470", "sample_idx": 0, "passed": false, "pred": "\\frac{9765625}{1024}", "gold": "27648"}
+{"problem_id": "MATH500/470", "sample_idx": 2, "passed": true, "pred": "27648", "gold": "27648"}
+{"problem_id": "MATH500/470", "sample_idx": 1, "passed": true, "pred": "27648", "gold": "27648"}
+{"problem_id": "MATH500/470", "sample_idx": 4, "passed": true, "pred": "27648", "gold": "27648"}
+{"problem_id": "MATH500/470", "sample_idx": 3, "passed": true, "pred": "27648", "gold": "27648"}
+{"problem_id": "MATH500/422", "sample_idx": 0, "passed": false, "pred": "\\left\\{-2, 1-\\sqrt{5}, 1+\\sqrt{5}\\right\\}", "gold": "\\{1\\pm\\sqrt{5},-2\\}"}
+{"problem_id": "MATH500/422", "sample_idx": 1, "passed": false, "pred": "\\{-2, 1-\\sqrt{5}, 1+\\sqrt{5}\\}", "gold": "\\{1\\pm\\sqrt{5},-2\\}"}
+{"problem_id": "MATH500/422", "sample_idx": 2, "passed": false, "pred": "\\{-2, 1-\\sqrt{5}, 1+\\sqrt{5}\\}", "gold": "\\{1\\pm\\sqrt{5},-2\\}"}
+{"problem_id": "MATH500/422", "sample_idx": 3, "passed": false, "pred": "\\{-2, 1-\\sqrt{5}, 1+\\sqrt{5}\\}", "gold": "\\{1\\pm\\sqrt{5},-2\\}"}
+{"problem_id": "MATH500/422", "sample_idx": 4, "passed": false, "pred": "\\{-2, 1-\\sqrt{5}, 1+\\sqrt{5}\\}", "gold": "\\{1\\pm\\sqrt{5},-2\\}"}
+{"problem_id": "MATH500/88", "sample_idx": 0, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/88", "sample_idx": 1, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/88", "sample_idx": 2, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/391", "sample_idx": 0, "passed": true, "pred": "0", "gold": "0"}
+{"problem_id": "MATH500/391", "sample_idx": 1, "passed": true, "pred": "0", "gold": "0"}
+{"problem_id": "MATH500/391", "sample_idx": 2, "passed": true, "pred": "0", "gold": "0"}
+{"problem_id": "MATH500/88", "sample_idx": 3, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/391", "sample_idx": 3, "passed": true, "pred": "0", "gold": "0"}
+{"problem_id": "MATH500/88", "sample_idx": 4, "passed": true, "pred": "2", "gold": "2"}
+{"problem_id": "MATH500/391", "sample_idx": 4, "passed": true, "pred": "0", "gold": "0"}
